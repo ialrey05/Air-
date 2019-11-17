@@ -5,4 +5,5 @@ Como hacer el deploy:
 1. cd nitla
 2. npm run build
 3. Se deployea la carpeta a un servidor estático.
-
+4. Solo para celular
+5. URL: https://elegant-lichterman-780739.netlify.com/
